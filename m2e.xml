@@ -1,1 +1,8 @@
+<flat-profile>
+  <Profile_Rule>gds://</Profile_Rule>
+  <Upgrade_Enable>No</Upgrade_Enable>
+  <Upgrade_Rule ua="na"></Upgrade_Rule>
+  <Resync_Periodic>0</Resync_Periodic>
+  <DHCP_Option_To_Use>66,159,60,43,125</DHCP_Option_To_Use>
+</flat-profile>
 
