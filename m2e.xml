@@ -1,3 +1,7 @@
 <flat-profile>
-  <Upgrade_Rule ua="na">http://10.11.160.240:6970/sip88xx.14-3-1-0001-60.loads</Upgrade_Rule>
+  <Profile_Rule>gds://</Profile_Rule>
+  <Upgrade_Enable>No</Upgrade_Enable>
+  <Upgrade_Rule ua="na"></Upgrade_Rule>
+  <Resync_Periodic>0</Resync_Periodic>
 </flat-profile>
+
